@@ -1,0 +1,21 @@
+.header {
+  background-color: #8383;
+  /* background-image: url("/assets/images/holly.jpg"); */
+  background: url("/assets/images/holly.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  min-height: 400px;
+  padding: 180px 20px; 
+  padding-bottom: 140px;
+  text-align: center;
+}
+
+.header h1 {
+  margin: 0;
+  margin-bottom: 30px;
+  font-size: 4rem;
+}
